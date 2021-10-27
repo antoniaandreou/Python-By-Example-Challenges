@@ -16,7 +16,7 @@ _______
 * [If Statements (Challenges 12-19)](https://github.com/antoniaandreou/Python-By-Example-Challenges/blob/main/Part%20I:%20Learning%20Python/If%20Statements.ipynb)
 * [Strings (Challenges 20-26)](https://github.com/antoniaandreou/Python-By-Example-Challenges/blob/main/Part%20I:%20Learning%20Python/Strings.ipynb)
 * [Maths (Challenges 27-34)](https://github.com/antoniaandreou/Python-By-Example-Challenges/blob/main/Part%20I:%20Learning%20Python/Maths.ipynb)
-* For Loop (Challenges 35-44)
+* [For Loop (Challenges 35-44)](https://github.com/antoniaandreou/Python-By-Example-Challenges/blob/main/Part%20I:%20Learning%20Python/For%20Loops.ipynb)
 * While Loop (Challenges 45-51)
 * Random (Challenges 52-59)
 * Turtel Graphics (Challenges 60-68)
